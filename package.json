@@ -8,14 +8,13 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
-    "@tailwindcss/postcss": "latest",
-    "framer-motion": "latest",
-    "lucide-react": "latest",
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "tailwindcss": "latest"
+"devDependencies": {
+  "typescript": "6.0.1",
+  "@types/node": "22.10.2",
+  "@types/react": "19.0.0",
+  "@types/react-dom": "19.0.0"
+}
+
   },
   "devDependencies": {
     "typescript": "latest",
